@@ -67,4 +67,6 @@ push the green start button in the upper right corner.
 
 Open your browser and type http://localhost:8080    
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.53.41.png" width="600px"/> 
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.53.41.png" width="600px"/>     
+
+_<div align="right">&copy; clbo@kea.dk</div>_
