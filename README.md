@@ -8,6 +8,8 @@ You should now have a folder and file structure that looks something like this:
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2010.58.46.png" width="300px"/>    
 
+![](img/Screen%20Shot%202017-11-17%20at%2010.58.46.png)
+
 
 If you open your **_src_** folder you will see a **_main_** and a **_test_** folder.    
 Delete the:
