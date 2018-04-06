@@ -1,6 +1,6 @@
 # #1 My First Website
 
-After creating an empty new Spring project in IntelliJ through the _Spring Initializer Template_: [#1 Hello Spring](https://github.com/dat17a/01_hello_spring), you should now create your first _Hello World Website_.    
+After creating an empty new Spring project in IntelliJ through the _Spring Initializer Template_: [#1 Hello Spring](https://github.com/dat17aSpring/01_hello_spring), you should now create your first _Hello World Website_.    
 
 <sup>_Remember that this is a step by step instruction. It does not explain all the concepts in details. This explanaition you will get from your teacher in class._</sup>
 
@@ -56,7 +56,7 @@ Add **_@Controller_** above the class definition and **_@GetMapping("/")_** abov
 * Delete the ```` <meta charset="UTF-8"> ````  tag
 * Add ````  xmlns:th="http://www.thymeleaf.org"   ```` to the ```` <html lang="en">  ```` tag
 
-<img src="https://github.com/dat17a/01_my_first_website/blob/master/img/newHtml.png" width="600px"/>  
+<img src="https://github.com/dat17aSpring/01_my_first_website/blob/master/img/newHtml.png" width="600px"/>  
 
 Make your code look like the image above. (do your best :))
 
